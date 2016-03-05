@@ -1,0 +1,28 @@
+name: Quill
+favicon: null
+layout_spectrum: 0.5399891780689359
+typography_spectrum: 0.01948747131973505
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.20862440299242735
+  lightness: 0.08515557367354631
+  saturation: 0.89527628547512
+  rhythmicContrast: 0.17681368230842054
+purpose: []
